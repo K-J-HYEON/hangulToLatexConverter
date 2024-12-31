@@ -1,4 +1,4 @@
-# CSM 17 
+# 씨에스엠 17 과제
 ## Python 
 ## Hangul -> Latex / Latex -> Hangul 과제
 
