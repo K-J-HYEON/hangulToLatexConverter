@@ -1,5 +1,6 @@
-# Python Hangul, Latex 과제
-### Converter를 총 4개의 형태로 분류
+# CSM 17 Python Hangul -> Latex / Latex -> Hangyl 과제
+
+### Converter python 코드를 사용하여 총 4개의 형태로 분류
 1. one
 2. two
 3. three
